@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Project+by+Youssef+Alouani+and+Ouissam+Aboujid;Supervised+by+Prof.+Khaoula+Ajbal;C%2B%2B+Mini+Project+2024&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Project+by+Youssef+Alouani&center=true&width=500&height=50">
 </p>
 
 ---
