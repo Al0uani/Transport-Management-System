@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1704847346 source:c:\users\xy\desktop\miniprojet\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<unordered_set>
+	<list>
+
+1705272185 source:c:\users\youssef alouani\myrepo\miniprojet\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<unordered_set>
+	<iomanip>
+	<cstring>
+	<direct.h>
+	<thread>
+	<memory.h>
+	<filesystem>
+	<cstdlib>
+	<unistd.h>
+	<ctype.h>
+
+1705185230 source:c:\users\xy\myrepo\miniprojet\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<unordered_set>
+	<iomanip>
+	<cstring>
+	<direct.h>
+	<thread>
+	<memory.h>
+	<filesystem>
+	<cstdlib>
+	<unistd.h>
+	<ctype.h>
+
